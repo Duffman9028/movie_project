@@ -20,6 +20,9 @@ With a sample size of 40, PG-13 has the highest median value
 ## Current Trending Directors
 <img src='images/director.png' width='650'>
 
+## Current Trending Writers
+<img src='images/writer.png' width='650'>
+
 ## Freshness to Rotten Ratio
 <img src='images/fresh_rotten_chart.png' width='650' height='400'>
 Highest-rated genres by top critics
