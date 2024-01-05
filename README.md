@@ -17,8 +17,12 @@ This project uses descriptive analysis, comparative analysis, and visualizations
 <img src='images/boxplot_review_movie.png' width='450' height='450'>
 With a sample size of 40, PG-13 has the highest median value 
 
-## Current trending directors
-<img src='images/director.png'>
+## Current Trending Directors
+<img src='images/director.png' width='650'>
+
+## Freshness to Rotten Ratio
+<img src='images/fresh_rotten_chart.png' width='650' height='400'>
+Highest-rated genres by top critics
 
 # Conclusions
 This analysis yields three actionable recommendations for your business to review:
